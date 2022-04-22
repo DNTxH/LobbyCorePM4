@@ -1,8 +1,9 @@
-name: LobbyCorePM4
+name: LobbyCore
 version: 1.0
 main: RynzDev\Core\Main
 api: 4.0.0
 author: RynzDev
+
 permissions:
   lobby.cmd:
     default: op
